@@ -91,7 +91,3 @@ The dataset contains approximately 100 product records with the following fields
 - Business Reporting
 
 
-
-B.Sc. Statistics | Aspiring Data Analyst
-
-This README is suitable for a GitHub portfolio and clearly explains your Excel project in a professional way.
